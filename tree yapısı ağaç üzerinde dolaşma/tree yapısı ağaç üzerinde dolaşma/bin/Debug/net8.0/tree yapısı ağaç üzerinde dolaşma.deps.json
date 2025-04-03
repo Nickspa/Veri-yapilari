@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tree yapısı ağaç üzerinde dolaşma/1.0.0": {
+        "runtime": {
+          "tree yapısı ağaç üzerinde dolaşma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tree yapısı ağaç üzerinde dolaşma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

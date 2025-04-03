@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\tree yapısı ağaç üzerinde dolaşma\tree yapısı ağaç üzerinde dolaşma\bin\Debug\net8.0\tree yapısı ağaç üzerinde dolaşma.exe
+C:\Users\User\Desktop\tree yapısı ağaç üzerinde dolaşma\tree yapısı ağaç üzerinde dolaşma\bin\Debug\net8.0\tree yapısı ağaç üzerinde dolaşma.deps.json
+C:\Users\User\Desktop\tree yapısı ağaç üzerinde dolaşma\tree yapısı ağaç üzerinde dolaşma\bin\Debug\net8.0\tree yapısı ağaç üzerinde dolaşma.runtimeconfig.json
+C:\Users\User\Desktop\tree yapısı ağaç üzerinde dolaşma\tree yapısı ağaç üzerinde dolaşma\bin\Debug\net8.0\tree yapısı ağaç üzerinde dolaşma.dll
+C:\Users\User\Desktop\tree yapısı ağaç üzerinde dolaşma\tree yapısı ağaç üzerinde dolaşma\bin\Debug\net8.0\tree yapısı ağaç üzerinde dolaşma.pdb
+C:\Users\User\Desktop\tree yapısı ağaç üzerinde dolaşma\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\tree yapısı ağaç üzerinde dolaşma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\tree yapısı ağaç üzerinde dolaşma\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\tree yapısı ağaç üzerinde dolaşma.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\tree yapısı ağaç üzerinde dolaşma\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\tree yapısı ağaç üzerinde dolaşma.AssemblyInfo.cs
+C:\Users\User\Desktop\tree yapısı ağaç üzerinde dolaşma\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\tree yapısı ağaç üzerinde dolaşma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tree yapısı ağaç üzerinde dolaşma\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\tree yapısı ağaç üzerinde dolaşma.dll
+C:\Users\User\Desktop\tree yapısı ağaç üzerinde dolaşma\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\refint\tree yapısı ağaç üzerinde dolaşma.dll
+C:\Users\User\Desktop\tree yapısı ağaç üzerinde dolaşma\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\tree yapısı ağaç üzerinde dolaşma.pdb
+C:\Users\User\Desktop\tree yapısı ağaç üzerinde dolaşma\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\tree yapısı ağaç üzerinde dolaşma.genruntimeconfig.cache
+C:\Users\User\Desktop\tree yapısı ağaç üzerinde dolaşma\tree yapısı ağaç üzerinde dolaşma\obj\Debug\net8.0\ref\tree yapısı ağaç üzerinde dolaşma.dll
