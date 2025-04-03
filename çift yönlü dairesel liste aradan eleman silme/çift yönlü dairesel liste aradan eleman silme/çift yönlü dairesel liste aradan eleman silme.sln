@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "çift yönlü dairesel liste aradan eleman silme", "çift yönlü dairesel liste aradan eleman silme.csproj", "{3335D9C4-45F9-D161-3FB7-40579C9C8A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hash table yapısı arama işlemi", "..\..\hash table yapısı arama işlemi\hash table yapısı arama işlemi\hash table yapısı arama işlemi.csproj", "{4C105B06-67D9-4D80-84F0-6CC73A401A31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3335D9C4-45F9-D161-3FB7-40579C9C8A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3335D9C4-45F9-D161-3FB7-40579C9C8A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3335D9C4-45F9-D161-3FB7-40579C9C8A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3335D9C4-45F9-D161-3FB7-40579C9C8A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C105B06-67D9-4D80-84F0-6CC73A401A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C105B06-67D9-4D80-84F0-6CC73A401A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C105B06-67D9-4D80-84F0-6CC73A401A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C105B06-67D9-4D80-84F0-6CC73A401A31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72D85A5B-63CB-4691-A34A-A519FE1E6344}
+	EndGlobalSection
+EndGlobal

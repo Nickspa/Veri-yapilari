@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\çift yönlü dairesel liste aradan eleman silme\çift yönlü dairesel liste aradan eleman silme\bin\Debug\net8.0\çift yönlü dairesel liste aradan eleman silme.exe
+C:\Users\User\Desktop\çift yönlü dairesel liste aradan eleman silme\çift yönlü dairesel liste aradan eleman silme\bin\Debug\net8.0\çift yönlü dairesel liste aradan eleman silme.deps.json
+C:\Users\User\Desktop\çift yönlü dairesel liste aradan eleman silme\çift yönlü dairesel liste aradan eleman silme\bin\Debug\net8.0\çift yönlü dairesel liste aradan eleman silme.runtimeconfig.json
+C:\Users\User\Desktop\çift yönlü dairesel liste aradan eleman silme\çift yönlü dairesel liste aradan eleman silme\bin\Debug\net8.0\çift yönlü dairesel liste aradan eleman silme.dll
+C:\Users\User\Desktop\çift yönlü dairesel liste aradan eleman silme\çift yönlü dairesel liste aradan eleman silme\bin\Debug\net8.0\çift yönlü dairesel liste aradan eleman silme.pdb
+C:\Users\User\Desktop\çift yönlü dairesel liste aradan eleman silme\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\çift yönlü dairesel liste aradan eleman silme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\çift yönlü dairesel liste aradan eleman silme\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\çift yönlü dairesel liste aradan eleman silme.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\çift yönlü dairesel liste aradan eleman silme\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\çift yönlü dairesel liste aradan eleman silme.AssemblyInfo.cs
+C:\Users\User\Desktop\çift yönlü dairesel liste aradan eleman silme\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\çift yönlü dairesel liste aradan eleman silme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\çift yönlü dairesel liste aradan eleman silme\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\çift yönlü dairesel liste aradan eleman silme.dll
+C:\Users\User\Desktop\çift yönlü dairesel liste aradan eleman silme\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\refint\çift yönlü dairesel liste aradan eleman silme.dll
+C:\Users\User\Desktop\çift yönlü dairesel liste aradan eleman silme\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\çift yönlü dairesel liste aradan eleman silme.pdb
+C:\Users\User\Desktop\çift yönlü dairesel liste aradan eleman silme\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\çift yönlü dairesel liste aradan eleman silme.genruntimeconfig.cache
+C:\Users\User\Desktop\çift yönlü dairesel liste aradan eleman silme\çift yönlü dairesel liste aradan eleman silme\obj\Debug\net8.0\ref\çift yönlü dairesel liste aradan eleman silme.dll
